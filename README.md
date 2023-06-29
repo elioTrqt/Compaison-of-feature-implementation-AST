@@ -1,9 +1,4 @@
----
-header-includes:
-  - \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
----
-
-Readme:
+# Compaison of feature implementation AST
 
 The aim of this project is to compare java AST corresponding to features implementation and determine a relation between them.  
 The source code of [BroadleafCommerce](https://github.com/BroadleafCommerce/BroadleafCommerce/) was choosen as a study case.  
@@ -45,7 +40,7 @@ This module define the main functions I used to create the commits ASTs and Anal
 
 work in progress:
 - comparing AST more precisely to determine each nodes that have been added by a commit
-(the idea is detailed in the [section x](#idea-for-comparaison-algorithm:))
+(the idea is detailed in the [last section](#idea-for-comparaison-algorithm:))
 
 **Demo :** the file CommitModuleDemo.ipynb is a demo of the module
 
