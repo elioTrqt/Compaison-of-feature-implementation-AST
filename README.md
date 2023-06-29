@@ -40,7 +40,7 @@ This module define the main functions I used to create the commits ASTs and Anal
 
 work in progress:
 - comparing AST more precisely to determine each nodes that have been added by a commit
-(the idea is detailed in the [last section](#idea-for-comparaison-algorithm:))
+(the idea is detailed in the [last section](#idea-for-comparaison-algorithm))
 
 **Demo :** the file CommitModuleDemo.ipynb is a demo of the module
 
