@@ -2,7 +2,6 @@
 
 The aim of this project is to compare java AST corresponding to features implementation and determine a relation between them.  
 The source code of [BroadleafCommerce](https://github.com/BroadleafCommerce/BroadleafCommerce/) was choosen as a study case.  
-Because I didn't really understand this aim at first, it seems that I have more played with ASTs and Github api than really created something interesting.  
 
 ------------------------------------------------------------------------------------------------------
 
